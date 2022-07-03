@@ -13,7 +13,7 @@
 
   <h2 align="center">NETFLIX - Movie website</h2>
 
-  Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  netflix is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://github.com/an0n7os/Netflixcp/"><strong>➥ Live Demo</strong></a>
 

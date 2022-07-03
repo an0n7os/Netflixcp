@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![netflix Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 
 ### Prerequisites
 

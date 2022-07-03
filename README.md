@@ -15,7 +15,7 @@
 
   netflix is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/an0n7os/Netflixcp/"><strong>➥ Live Demo</strong></a>
+  <a href="https://an0n7os.github.io/Netflixcp/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
